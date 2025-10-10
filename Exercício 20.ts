@@ -1,4 +1,5 @@
 //Exercício 20: Escreva um programa que imprima uma classificação baseada na nota de um aluno.
+
 let nota: number = 8;
 
 if (nota >= 9) {
