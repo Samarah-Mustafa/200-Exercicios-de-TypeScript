@@ -1,5 +1,4 @@
 //Exercício 12: Escreva um programa que verifica a situação de um estudante de acordo com sua média final.
-
 function verificarSituacao(media: number): string {
     if (media >= 7) {
         return "Aprovado!";
