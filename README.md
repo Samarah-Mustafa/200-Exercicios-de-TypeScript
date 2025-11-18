@@ -1,6 +1,6 @@
 ## 200 Exercícios de TypeScript
 
-🌟 200 Exercícios de TypeScript: Do Básico ao Expert(**Progresso Atual:** 53/200 Exercícios)
+🌟 200 Exercícios de TypeScript: Do Básico ao Expert(**Progresso Atual:** 54/200 Exercícios)
 Este repositório é sua biblioteca essencial com 200 desafios de código e exercícios práticos para dominar o TypeScript!
 
 Organizada cuidadosamente, esta coleção foi projetada para aprimorar suas habilidades, cobrindo todos os níveis de proficiência, desde a sintaxe fundamental até tópicos avançados de manipulação de dados e programação assíncrona.
